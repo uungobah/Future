@@ -1,0 +1,11 @@
+
+¶%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Êšçë8ëçÔÈ®-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¼ÄÎÈ®-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ™Ë8šÿÌÈ®-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë£À¨8‡âÄÈ®-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(“¤À®8¼ÄÎÈ®-
+1squid:S1220""Move this file to a named package.
